@@ -1,6 +1,6 @@
 # sass_starter_pack
 This is Simple Sass starter pack
-
-To run simple install live-server globally
-
-and run: npm run compile:sass
+#install live-server globally
+npm install live-server -g
+npm run compile:sass
+live-server
